@@ -6,9 +6,9 @@
 GNNによるカウンターアタック成功予測の先行研究のデータによる実行とScientificDataによって公開されているデータに独自の前処理を施したデータを用いた実行を行っている。
 
 
-[![PDFのプレビュー](./images/preview.png)](./files/document.pdf)
-*画像をクリックするとPDFが開きます*
-<img width="1760" height="1001" alt="スクリーンショット 2026-05-07 17 15 52" src="https://github.com/user-attachments/assets/1fa73b8a-5187-46a8-a7f4-b2caad92eff0" />
+[論文説明資料（PDF）を表示する](./論文説明資料_磯田龍哉.pdf)
+<img width="1619" height="771" alt="スクリーンショット 2026-05-07 17 19 09" src="https://github.com/user-attachments/assets/e1aa412f-386c-43c8-876f-3269e74b503d" />
+
 
 
 
