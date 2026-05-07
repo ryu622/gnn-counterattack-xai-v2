@@ -6,6 +6,11 @@
 GNNによるカウンターアタック成功予測の先行研究のデータによる実行とScientificDataによって公開されているデータに独自の前処理を施したデータを用いた実行を行っている。
 
 
+[![PDFのプレビュー](./images/preview.png)](./files/document.pdf)
+*画像をクリックするとPDFが開きます*
+<img width="1760" height="1001" alt="スクリーンショット 2026-05-07 17 15 52" src="https://github.com/user-attachments/assets/1fa73b8a-5187-46a8-a7f4-b2caad92eff0" />
+
+
 
 #提案手法
 
