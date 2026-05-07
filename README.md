@@ -17,12 +17,11 @@ GNNによるカウンターアタック成功予測の先行研究のデータ�
 <img width="1750" height="989" alt="スクリーンショット 2026-05-07 17 25 10" src="https://github.com/user-attachments/assets/b5013e5d-423c-4d32-a846-0be899e97280" />
 
 #グラフニューラルネットワーク（GNN）とは
-<img width="1750" height="989" alt="スクリーンショット 2026-05-07 17 25 10" src="https://github.com/user-attachments/assets/4eda3b8f-1294-4928-a6b5-1fba3dc23308" />
-
-#本研究の目的
 <img width="1637" height="921" alt="スクリーンショット 2026-05-07 17 26 31" src="https://github.com/user-attachments/assets/0affb39b-21dc-4732-98ce-5011fe8244fc" />
 
+#本研究の目的
 
+<img width="1619" height="749" alt="スクリーンショット 2026-05-07 17 39 21" src="https://github.com/user-attachments/assets/d8b45c6b-4d18-44b9-afc1-9789104d96a5" />
 
 
 
